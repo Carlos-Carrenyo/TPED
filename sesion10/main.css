@@ -1,26 +1,33 @@
 body {
     background-color: floralwhite;
-    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
 }
 
 header {
     font-size: 120%;
+    text-align: center;
 }
 
-section {
+h2 {
     font-family: sans-serif;
-    font-size: 80%;
-}
-
-img {
-    width: 33%;
-    height: auto;
-    filter: saturate(0);
-    float: left;
-    margin-bottom: 2%;
+    font-size: 120%;
 }
 
 a:hover img {
     filter: saturate(1);
     filter: drop-shadow(4px 4px 4px black);
 }
+
+.contenedor {
+    width: 100%;
+    flex-wrap: wrap;
+    align-items: center;
+    background: #ddd;
+    justify-content: space-around;
+    align-content: flex-start;
+}
+
+
