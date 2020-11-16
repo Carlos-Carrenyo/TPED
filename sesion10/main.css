@@ -11,7 +11,7 @@ hr {
 }
 
 a:hover {
-    filter: saturate(1);
+    
     filter: drop-shadow(4px 4px 4px black);
     
 }
@@ -29,7 +29,6 @@ a:hover {
     justify-content: center;
     align-content: flex-start;
 }
-
 
 
 div img {
