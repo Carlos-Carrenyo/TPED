@@ -1,0 +1,135 @@
+@font-face {
+   font-family:armalite_rifle; 
+    src:url(fonts/armalite_rifle.ttf);
+}
+
+@font-face {
+   font-family:BD_Cartoon_Shout; 
+    src:url(fonts/BD_Cartoon_Shout.ttf);
+}
+
+@font-face {
+   font-family:Impact_Label; 
+    src:url(fonts/Impact_Label.ttf);
+}
+
+@font-face {
+   font-family:Tuffy; 
+    src:url(fonts/Tuffy.ttf);
+}
+
+@font-face {
+   font-family:Old_Script; 
+    src:url(fonts/Old_Script.ttf);
+}
+
+@font-face {
+   font-family:riesling; 
+    src:url(fonts/riesling.ttf);
+}
+
+@font-face {
+   font-family:Hill_House; 
+    src:url(fonts/Hill_House.ttf);
+}
+
+@font-face {
+   font-family:UglyQua; 
+    src:url(fonts/UglyQua.ttf);
+}
+
+@font-face {
+   font-family:MonospaceTypewriter; 
+    src:url(fonts/MonospaceTypewriter.ttf);
+}
+
+body {
+    background-color: gray;
+}
+.padre {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.hijo1 {
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:armalite_rifle;
+}
+
+.hijo2 {
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:BD_Cartoon_Shout;
+}
+
+.hijo3 {
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:Impact_Label;
+}
+
+.hijo4 {
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:Tuffy;
+}
+
+.hijo5 {
+   font-size: 20px;
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:Old_Script;
+}
+
+.hijo6 {
+   font-size: 20px;
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:riesling;
+}
+
+.hijo7 {
+    font-size: 15px;
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:Hill_House;
+}
+
+.hijo8 {
+    font-size: 15px;
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:UglyQua;
+}
+
+.hijo9 {
+    font-size: 12px;
+    width: 400px;
+   padding: 20px;
+    margin: 10px;
+    background-color: white;
+    font-family:MonospaceTypewriter;
+}
+
+i {
+    font-size: 30px;
+}

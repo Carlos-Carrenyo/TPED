@@ -71,7 +71,7 @@ a {
     margin-top: 25px;
 }
 
-.boton {
+.texto botton {
     background-color: dodgerblue;
     width: 120px;
     padding: 10px;
@@ -90,8 +90,8 @@ a {
 }
 
 hr {
-    background-color: #000000;
-    height: 2px;
+    border-color: #000000;
+    
 }
 
 h3 {
